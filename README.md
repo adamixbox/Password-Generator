@@ -3,10 +3,10 @@ So one night, I decided to sit down and do some Python - to begin to build up a 
 I decided to try and make a password generator where you can choose if you want a simplistic, easy to remember password or a hard to remember yet secure password. When you
 answer the question to which type of password you want, there are only four <b>valid</b> answers that you can write down, which are:
 
-<b><color=green>"noteable"</b></colorn>
-<b><color=green>"noteable password</b></color>
-<b><color=green>"secure"</b></color>
-<b><color=green>"secure password"</b></color>
+<b>"noteable"</b>
+<b>"noteable password</b>
+<b>"secure"</b>
+<b>"secure password"</b>
 
 These are <b>not</b> capital sensitive, so you may capitilize them however you want; though these are sensitive to spelling mistakes. In the future, I may make a version of 
 this with user interface instead of the typical console application. I hope I delved into enough detail about this project for now in this readme. Its unlikely I will update
